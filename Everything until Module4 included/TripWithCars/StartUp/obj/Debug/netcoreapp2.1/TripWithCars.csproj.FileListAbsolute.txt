@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\TripWithCars\StartUp\bin\Debug\netcoreapp2.1\TripWithCars.deps.json
+C:\Users\PC\source\repos\TripWithCars\StartUp\bin\Debug\netcoreapp2.1\TripWithCars.runtimeconfig.json
+C:\Users\PC\source\repos\TripWithCars\StartUp\bin\Debug\netcoreapp2.1\TripWithCars.runtimeconfig.dev.json
+C:\Users\PC\source\repos\TripWithCars\StartUp\bin\Debug\netcoreapp2.1\TripWithCars.dll
+C:\Users\PC\source\repos\TripWithCars\StartUp\bin\Debug\netcoreapp2.1\TripWithCars.pdb
+C:\Users\PC\source\repos\TripWithCars\StartUp\obj\Debug\netcoreapp2.1\TripWithCars.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\TripWithCars\StartUp\obj\Debug\netcoreapp2.1\TripWithCars.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TripWithCars\StartUp\obj\Debug\netcoreapp2.1\TripWithCars.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\TripWithCars\StartUp\obj\Debug\netcoreapp2.1\TripWithCars.AssemblyInfo.cs
+C:\Users\PC\source\repos\TripWithCars\StartUp\obj\Debug\netcoreapp2.1\TripWithCars.dll
+C:\Users\PC\source\repos\TripWithCars\StartUp\obj\Debug\netcoreapp2.1\TripWithCars.pdb

@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\bin\Debug\netcoreapp2.1\CarStore.deps.json
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\bin\Debug\netcoreapp2.1\CarStore.runtimeconfig.json
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\bin\Debug\netcoreapp2.1\CarStore.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\bin\Debug\netcoreapp2.1\CarStore.dll
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\bin\Debug\netcoreapp2.1\CarStore.pdb
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\obj\Debug\netcoreapp2.1\CarStore.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\obj\Debug\netcoreapp2.1\CarStore.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\obj\Debug\netcoreapp2.1\CarStore.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\obj\Debug\netcoreapp2.1\CarStore.AssemblyInfo.cs
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\obj\Debug\netcoreapp2.1\CarStore.dll
+C:\Users\PC\source\repos\ExamOOPModule\CarStore\obj\Debug\netcoreapp2.1\CarStore.pdb

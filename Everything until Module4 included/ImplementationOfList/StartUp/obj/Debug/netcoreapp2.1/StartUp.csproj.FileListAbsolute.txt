@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Solution1\StartUp\bin\Debug\netcoreapp2.1\StartUp.deps.json
+C:\Users\PC\source\repos\Solution1\StartUp\bin\Debug\netcoreapp2.1\StartUp.runtimeconfig.json
+C:\Users\PC\source\repos\Solution1\StartUp\bin\Debug\netcoreapp2.1\StartUp.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Solution1\StartUp\bin\Debug\netcoreapp2.1\StartUp.dll
+C:\Users\PC\source\repos\Solution1\StartUp\bin\Debug\netcoreapp2.1\StartUp.pdb
+C:\Users\PC\source\repos\Solution1\StartUp\obj\Debug\netcoreapp2.1\StartUp.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Solution1\StartUp\obj\Debug\netcoreapp2.1\StartUp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Solution1\StartUp\obj\Debug\netcoreapp2.1\StartUp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Solution1\StartUp\obj\Debug\netcoreapp2.1\StartUp.AssemblyInfo.cs
+C:\Users\PC\source\repos\Solution1\StartUp\obj\Debug\netcoreapp2.1\StartUp.dll
+C:\Users\PC\source\repos\Solution1\StartUp\obj\Debug\netcoreapp2.1\StartUp.pdb
